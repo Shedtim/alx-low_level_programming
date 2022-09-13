@@ -21,8 +21,9 @@
 			if (prod <= 9)
 				_putchar(' ');
 			else
-				_putchar((prod / 10) + '0');
-			putchar((prod % 10) + '0') + '0');
+				_putchar((prod % 10) + '0');
+
+			_putchar((prod % 10) + '0');
 		}
 		_putchar('\n');
 	}
