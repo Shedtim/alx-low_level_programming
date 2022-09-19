@@ -18,7 +18,8 @@ for (i = 0; s[i]; i++)
 length++;
 }
 
-count + length;
+count = length;
+
 start_c = s;
 end_c = s;
 
