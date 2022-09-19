@@ -2,7 +2,7 @@
 
 /**
  * puts_half - prints half of a string
- * @str: input 
+ * @str: input
  * Return: half the imput
  */
 void puts_half(char *str)
