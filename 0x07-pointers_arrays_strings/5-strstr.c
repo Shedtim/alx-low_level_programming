@@ -7,8 +7,7 @@
 * @haystack: the string to look for a substring
 * @needle: the substring
 *
-* Return: first occurrence of the substring, if not found N
-ULL
+* Return: first occurrence of the substring, if not found NULL
 */
 char *_strstr(char *haystack, char *needle)
 {
