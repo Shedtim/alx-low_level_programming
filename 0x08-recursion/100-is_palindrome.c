@@ -22,6 +22,7 @@ int find_strlen(char *s)
 
 	return (len);
 }
+
 /**
  * check_palindrome - Checks if a string is a palindrome.
  * @s: The string to be checked.
